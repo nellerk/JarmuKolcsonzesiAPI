@@ -1,0 +1,6 @@
+@JarmuKolcsonzesiAPI_HostAddress = http://localhost:5210
+
+GET {{JarmuKolcsonzesiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
